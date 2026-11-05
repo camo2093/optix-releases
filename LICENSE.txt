@@ -1,0 +1,49 @@
+ORBIT – END USER LICENSE AGREEMENT (Proprietary Software)
+
+Copyright (c) 2026 leon2093. All rights reserved.
+
+Orbit ("the Software") is proprietary software. It is NOT open source.
+The source code is confidential and is not published.
+
+1. License grant
+   You may download, install and use the Software free of charge on your own
+   computers for personal or internal business purposes.
+
+2. Restrictions
+   You may NOT, except where such restrictions are not permitted by applicable law:
+   a) copy, modify, translate or create derivative works of the Software;
+   b) decompile, disassemble or otherwise reverse engineer the Software;
+   c) sell, rent, lease, sublicense or redistribute the Software or the installer,
+      or host it for download elsewhere, without prior written permission;
+   d) remove or alter any copyright notices or this license.
+
+3. Ownership
+   The Software is licensed, not sold. All rights, title and interest, including
+   all intellectual property rights, remain with the copyright holder.
+
+4. Third-party components
+   The Software includes third-party components that are licensed under their own
+   terms (see THIRD-PARTY-NOTICES.txt). Those terms apply to those components and
+   take precedence over this agreement for them.
+
+5. System changes
+   The Software can change Windows settings only after your confirmation. Changes
+   are logged and, where technically possible, reversible in the Restore Center.
+   You are responsible for reviewing changes before confirming them.
+
+6. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+7. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE
+   FOR ANY DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE,
+   INCLUDING DATA LOSS OR SYSTEM MALFUNCTION. Liability for intent and gross
+   negligence, and mandatory statutory liability, remain unaffected.
+
+8. Termination
+   This license ends automatically if you violate its terms. You must then
+   uninstall and delete the Software.
+
+By installing or using the Software you agree to these terms.
