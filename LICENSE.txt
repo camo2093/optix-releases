@@ -1,8 +1,8 @@
-ORBIT – END USER LICENSE AGREEMENT (Proprietary Software)
+OPTIX – END USER LICENSE AGREEMENT (Proprietary Software)
 
 Copyright (c) 2026 camo2093. All rights reserved.
 
-Orbit ("the Software") is proprietary software. It is NOT open source.
+OPTIX ("the Software") is proprietary software. It is NOT open source.
 The source code is confidential and is not published.
 
 1. License grant

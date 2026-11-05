@@ -1,7 +1,7 @@
-ORBIT – THIRD-PARTY NOTICES
+OPTIX – THIRD-PARTY NOTICES
 
-Orbit is proprietary software, but it includes the following third-party
-components, each under its own license. Nothing in Orbit's license restricts
+OPTIX is proprietary software, but it includes the following third-party
+components, each under its own license. Nothing in OPTIX's license restricts
 your rights under these licenses.
 
 ------------------------------------------------------------------------------
@@ -33,3 +33,31 @@ Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 ------------------------------------------------------------------------------
 Intel PresentMon (optional, NOT bundled) – MIT License
 Downloaded by the user on request from https://github.com/GameTechDev/PresentMon
+
+
+------------------------------------------------------------------------------
+Inter (typeface) – SIL Open Font License 1.1 (OFL-1.1)
+https://github.com/rsms/inter
+Copyright (c) The Inter Project Authors.
+The font is bundled unmodified. The full OFL text ships as OFL.txt next to the
+font files. License: https://openfontlicense.org
+
+------------------------------------------------------------------------------
+Lucide (icons) – ISC License
+https://github.com/lucide-icons/lucide
+
+ISC License
+
+Copyright (c) for portions of Lucide are held by Cole Bemis 2013-2022 as part of Feather (MIT). All other copyright (c) for Lucide are held by Lucide Contributors 2022.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
