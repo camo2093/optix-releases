@@ -6,7 +6,7 @@ Orbit is a PC optimization suite for Windows 10/11 (x64) with a monochrome space
 
 ## Download
 
-👉 **[Download the latest version](https://github.com/leon2093/orbit-releases/releases/latest)** – `Orbit-Setup-<version>-x64.exe`
+👉 **[Download the latest version](https://github.com/camo2093/orbit-releases/releases/latest)** – `Orbit-Setup-<version>-x64.exe`
 
 .NET is included; no extra installation needed. The installer is not code-signed yet, so Windows SmartScreen may show a warning: click *More info → Run anyway*.
 
